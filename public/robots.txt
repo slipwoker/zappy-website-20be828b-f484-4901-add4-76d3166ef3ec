@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://-20be828b.zappy5.app/sitemap.xml
+Sitemap: https://ha-ima-ha-mezameret.zappy5.app/sitemap.xml
